@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora\\Projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora\\Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora\\Calculadora.csproj",
-        "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora\\Projeto.csproj",
+        "projectName": "Projeto",
+        "projectPath": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora\\Projeto.csproj",
         "packagesPath": "C:\\Users\\klsantos1\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",

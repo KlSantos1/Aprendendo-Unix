@@ -1,5 +1,6 @@
 using System;
 using Xunit;
+using Projeto;
 
 namespace Calculadora_Testes
 {
@@ -14,7 +15,7 @@ namespace Calculadora_Testes
             int num2 = 3;
 
             // Act
-            int resultado = Calculadora.Calculadora.Somar(num1, num2);
+            int resultado = Calculadora.Somar(num1, num2);
 
             // Assert
             Assert.Equal(8, resultado);
@@ -29,7 +30,7 @@ namespace Calculadora_Testes
             int num2 = 4;
 
             // Act
-            int resultado = Calculadora.Calculadora.Subtrair(num1, num2);
+            int resultado = Calculadora.Subtrair(num1, num2);
 
             // Assert
             Assert.Equal(6, resultado);
@@ -44,7 +45,7 @@ namespace Calculadora_Testes
             int num2 = 7;
 
             // Act
-            int resultado = Calculadora.Calculadora.Multiplicar(num1, num2);
+            int resultado = Calculadora.Multiplicar(num1, num2);
 
             // Assert
             Assert.Equal(42, resultado);
@@ -59,7 +60,7 @@ namespace Calculadora_Testes
             int num2 = 4;
 
             // Act
-            int resultado = Calculadora.Calculadora.Dividir(num1, num2);
+            int resultado = Calculadora.Dividir(num1, num2);
 
             // Assert
             Assert.Equal(5, resultado);

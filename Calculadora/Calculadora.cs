@@ -1,4 +1,4 @@
-﻿namespace Calculadora
+﻿namespace Projeto
 {
     public class Calculadora
     { 

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora-Testes\\Calculadora-Testes.csproj": {}
+    "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora-Testes\\Projeto-Testes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora-Testes\\Calculadora-Testes.csproj": {
+    "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora-Testes\\Projeto-Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora-Testes\\Calculadora-Testes.csproj",
-        "projectName": "Calculadora-Testes",
-        "projectPath": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora-Testes\\Calculadora-Testes.csproj",
+        "projectUniqueName": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora-Testes\\Projeto-Testes.csproj",
+        "projectName": "Projeto-Testes",
+        "projectPath": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora-Testes\\Projeto-Testes.csproj",
         "packagesPath": "C:\\Users\\klsantos1\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Aprendendo-Unix\\Calculadora-Testes\\obj\\",
         "projectStyle": "PackageReference",

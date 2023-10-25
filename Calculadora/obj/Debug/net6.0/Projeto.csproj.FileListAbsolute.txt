@@ -1,0 +1,11 @@
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\bin\Debug\net6.0\Projeto.dll
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\bin\Debug\net6.0\Projeto.pdb
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\obj\Debug\net6.0\Projeto.dll
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\obj\Debug\net6.0\refint\Projeto.dll
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\obj\Debug\net6.0\Projeto.pdb
+C:\Users\klsantos1\OneDrive - Stefanini\Desktop\Testes\Aprendendo-Unix\Calculadora\obj\Debug\net6.0\ref\Projeto.dll
